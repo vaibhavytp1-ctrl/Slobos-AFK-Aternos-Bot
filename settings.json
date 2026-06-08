@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " OneBlockMcF.aternos.me",
+    "ip": "OneBlockMcF.aternos.me",
     "port": 29895,
     "version": "",
     "try-creative": false
